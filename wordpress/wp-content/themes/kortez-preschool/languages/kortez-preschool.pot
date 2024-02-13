@@ -1,0 +1,329 @@
+# Copyright (C) 2023 kortezthemes
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kortez Preschool 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kortez-preschool\n"
+"POT-Creation-Date: 2023-12-05 11:11:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/admin/info.php:36
+msgid " Info"
+msgstr ""
+
+#: inc/admin/info.php:44
+msgid "Kortez Preschool Theme"
+msgstr ""
+
+#: inc/admin/info.php:126
+msgid "Welcome to %s - "
+msgstr ""
+
+#: inc/admin/info.php:129
+msgid "Kortez Preschool Pro offers more features and enhances your experience!"
+msgstr ""
+
+#: inc/admin/info.php:136
+msgid "Buy Pro"
+msgstr ""
+
+#: patterns/about.php:38
+msgid "ABOUT US"
+msgstr ""
+
+#: patterns/about.php:42
+msgid "Learn To Play, Converse With Confidence!"
+msgstr ""
+
+#: patterns/about.php:46
+msgid "Veritatis ultrices adipiscing convallis amet cubilia, risus odio mauris, consequuntur aenean molestias, voluptate."
+msgstr ""
+
+#: patterns/about.php:52
+msgid "Supporting child &#39; s Personality"
+msgstr ""
+
+#: patterns/about.php:56
+msgid "ndoor/Outdoor Games for Little Kids"
+msgstr ""
+
+#: patterns/about.php:60
+msgid "Professional &amp; Qualified Teachers"
+msgstr ""
+
+#: patterns/about.php:64
+msgid "Best Learning School for Kids"
+msgstr ""
+
+#: patterns/about.php:72 patterns/hero-banner.php:48
+msgid "Learn More"
+msgstr ""
+
+#: patterns/about.php:78
+msgid "Join Now"
+msgstr ""
+
+#: patterns/footer.php:24
+msgid "Eum, tortor nisl at maecenas itaque adipiscing pharetra ligula voluptat."
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "250 Main Street, LA, USA"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "Tel: +1987 123456"
+msgstr ""
+
+#: patterns/footer.php:42
+msgid "PROGRAMS"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "UTILITY"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "FOLLOW US ON"
+msgstr ""
+
+#: patterns/footer.php:72
+msgid "Please subscribe to our newsletter to get all the great Offers"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Subscribe Us"
+msgstr ""
+
+#: patterns/footer.php:88
+msgid "© 2023."
+msgstr ""
+
+#: patterns/footer.php:94
+msgid "All rights reserved"
+msgstr ""
+
+#: patterns/header.php:29
+msgid "Join Us Now"
+msgstr ""
+
+#: patterns/hero-banner.php:28
+msgid "LEARNING, LAUGHTER AND LOVE"
+msgstr ""
+
+#: patterns/hero-banner.php:32
+msgid "Where Little Minds Blossom"
+msgstr ""
+
+#: patterns/hero-banner.php:36
+msgid "Assumenda convallis explicabo ipsa tortor congue etiam, minim! Amet inceptos dictum sapiente, qui, Minus. Esse quos fermentum harum quasi. Cupiditate habitant mollit hic earum fermentum."
+msgstr ""
+
+#: patterns/hero-banner.php:42
+msgid "Book A Visit"
+msgstr ""
+
+#: patterns/latest-posts.php:13
+msgid "RECENT BLOGS"
+msgstr ""
+
+#: patterns/latest-posts.php:17
+msgid "Our News &#39; Insights"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/programs.php:16
+msgid "OUR PROGRAMS"
+msgstr ""
+
+#: patterns/programs.php:20
+msgid "Providing Best Classes"
+msgstr ""
+
+#: patterns/programs.php:31
+msgid "Toddler Programs"
+msgstr ""
+
+#: patterns/programs.php:35
+msgid "(Age: 1.5-3 years)"
+msgstr ""
+
+#: patterns/programs.php:39 patterns/programs.php:79 patterns/programs.php:119
+msgid "Luctus cum vivamus mus nulla autem excepturi expedita eum eu nulla at."
+msgstr ""
+
+#: patterns/programs.php:46 patterns/programs.php:86 patterns/programs.php:126
+msgid "CLASS FEES :"
+msgstr ""
+
+#: patterns/programs.php:50
+msgid "$350.00"
+msgstr ""
+
+#: patterns/programs.php:50
+msgid "$380.00"
+msgstr ""
+
+#: patterns/programs.php:56 patterns/programs.php:96 patterns/programs.php:136
+msgid "ENROLL"
+msgstr ""
+
+#: patterns/programs.php:71
+msgid "Preschool Programs"
+msgstr ""
+
+#: patterns/programs.php:75
+msgid "(Age: 2-3 years)"
+msgstr ""
+
+#: patterns/programs.php:90
+msgid "$480.00"
+msgstr ""
+
+#: patterns/programs.php:90
+msgid "$520.00"
+msgstr ""
+
+#: patterns/programs.php:111
+msgid "Kindergarten Class"
+msgstr ""
+
+#: patterns/programs.php:115
+msgid "(Age: 4-5years)"
+msgstr ""
+
+#: patterns/programs.php:130
+msgid "$550.00"
+msgstr ""
+
+#: patterns/programs.php:130
+msgid "$630.00"
+msgstr ""
+
+#: patterns/services.php:19
+msgid "SCHOOL FEATURES"
+msgstr ""
+
+#: patterns/services.php:23
+msgid "Where Play Meets Learning"
+msgstr ""
+
+#: patterns/services.php:30
+msgid "More Features"
+msgstr ""
+
+#: patterns/services.php:44
+msgid "Home-like Environment"
+msgstr ""
+
+#: patterns/services.php:48 patterns/services.php:64 patterns/services.php:80
+#: patterns/services.php:96
+msgid "Itaque dis, turpis eleifend, cumque? Esse, rutrum! Sequi, distinctio convallis."
+msgstr ""
+
+#: patterns/services.php:60
+msgid "Best Safety And Security"
+msgstr ""
+
+#: patterns/services.php:76
+msgid "Quality And Qualified Staff"
+msgstr ""
+
+#: patterns/services.php:92
+msgid "Play To Learn Environment"
+msgstr ""
+
+#: patterns/template-404.php:20
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-search.php:28
+msgid "."
+msgstr ""
+
+#: patterns/template-search.php:46
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/testimonial.php:18
+msgid "OUR TESTIMONIAL"
+msgstr ""
+
+#: patterns/testimonial.php:28
+msgid "Parents Words Are The Key To Happy Kids"
+msgstr ""
+
+#: patterns/testimonial.php:41
+msgid "Great learning environment.."
+msgstr ""
+
+#: patterns/testimonial.php:45 patterns/testimonial.php:77
+msgid "Inceptos consequuntur laoreet accusantium odio provident hic, sed! Magna blandit atque auctor eiusmod distinctio rerum."
+msgstr ""
+
+#: patterns/testimonial.php:60
+msgid "James Housten"
+msgstr ""
+
+#: patterns/testimonial.php:64
+msgid "MARTIN &#39; S FATHER"
+msgstr ""
+
+#: patterns/testimonial.php:73
+msgid "Qualified Friendly teachers.."
+msgstr ""
+
+#: patterns/testimonial.php:92
+msgid "Sally Wright"
+msgstr ""
+
+#: patterns/testimonial.php:96
+msgid "JANE &#39; S MOTHER"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Kortez Preschool"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://kortezthemes.com/kortez-preschool/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Kortez Preschool is a specialized WordPress block theme ideally suited for various educational websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "kortezthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://kortezthemes.com"
+msgstr ""
